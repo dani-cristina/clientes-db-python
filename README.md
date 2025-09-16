@@ -29,4 +29,4 @@ A tabela armazena informações de clientes, como ID, nome, e-mail e data de nas
 
 ## Autor
 
-Seu nome aqui
+Daniela
